@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -15,8 +15,16 @@
     <item>
       <title>The Effects of Price Regulation in Markets with Strategic Entry: Evidence from Health Insurance Markets (Job Market Paper)</title>
       <link>/publication/rating_areas/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/publication/rating_areas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Expansionary and Contractionary Supply-Side Effects of Health Insurance</title>
+      <link>/publication/retail_clinics/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/retail_clinics/</guid>
       <description></description>
     </item>
     
