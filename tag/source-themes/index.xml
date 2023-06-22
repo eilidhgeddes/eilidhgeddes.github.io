@@ -5,7 +5,7 @@
     <link>/tag/source-themes/</link>
       <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Source Themes</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>The Effects of Price Regulation in Markets with Strategic Entry: Evidence from Health Insurance Markets (Job Market Paper)</title>
+      <title>Rational Eviction: How Landlords Use Evictions in Response to Rent Control</title>
+      <link>/publication/rent_control_evictions/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/rent_control_evictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of Price Regulation in Markets with Strategic Entry: Evidence from Health Insurance Markets</title>
       <link>/publication/rating_areas/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/publication/rating_areas/</guid>
       <description></description>
     </item>
@@ -33,14 +41,6 @@
       <link>/publication/rent_control_ipv/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/publication/rent_control_ipv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rational Eviction: How Landlords Use Evictions in Response to Rent Control</title>
-      <link>/publication/rent_control_evictions/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/rent_control_evictions/</guid>
       <description></description>
     </item>
     
