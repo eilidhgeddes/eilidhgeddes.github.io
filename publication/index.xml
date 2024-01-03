@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Housing Affordability and Domestic Violence: The Case of San Francisco&#39;s Rent Control Policies</title>
+      <link>/publication/rent_control_ipv/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/rent_control_ipv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Expansionary and Contractionary Supply-Side Effects of Health Insurance</title>
       <link>/publication/retail_clinics/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/publication/retail_clinics/</guid>
       <description></description>
     </item>
@@ -33,14 +41,6 @@
       <link>/publication/rating_areas/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/publication/rating_areas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Housing Affordability and Domestic Violence: The Case of San Francisco&#39;s Rent Control Policies</title>
-      <link>/publication/rent_control_ipv/</link>
-      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/rent_control_ipv/</guid>
       <description></description>
     </item>
     
