@@ -5,12 +5,20 @@
     <link>/author/eilidh-geddes/</link>
       <atom:link href="/author/eilidh-geddes/index.xml" rel="self" type="application/rss+xml" />
     <description>Eilidh Geddes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Eilidh Geddes</title>
       <link>/author/eilidh-geddes/</link>
     </image>
+    
+    <item>
+      <title>Housing Affordability and Domestic Violence: The Case of San Francisco&#39;s Rent Control Policies</title>
+      <link>/publication/rent_control_ipv/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/rent_control_ipv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Expecting Harm? The Impact of Rural Hospital Acquisitions on Maternal Health Care</title>
@@ -41,14 +49,6 @@
       <link>/publication/rent_control_evictions/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/publication/rent_control_evictions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Housing Affordability and Domestic Violence: The Case of San Francisco&#39;s Rent Control Policies</title>
-      <link>/publication/rent_control_ipv/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/rent_control_ipv/</guid>
       <description></description>
     </item>
     
