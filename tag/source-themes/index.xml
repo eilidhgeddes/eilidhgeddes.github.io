@@ -5,7 +5,7 @@
     <link>/tag/source-themes/</link>
       <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Housing Affordability and Domestic Violence: The Case of San Francisco&#39;s Rent Control Policies</title>
-      <link>/publication/rent_control_ipv/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/rent_control_ipv/</guid>
+      <title>Expecting Harm? The Impact of Rural Hospital Acquisitions on Maternal Health Care</title>
+      <link>/publication/mergers/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/mergers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Expecting Harm? The Impact of Rural Hospital Acquisitions on Maternal Health Care</title>
-      <link>/publication/mergers/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/mergers/</guid>
+      <title>Housing Affordability and Domestic Violence: The Case of San Francisco&#39;s Rent Control Policies</title>
+      <link>/publication/rent_control_ipv/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/rent_control_ipv/</guid>
       <description></description>
     </item>
     
